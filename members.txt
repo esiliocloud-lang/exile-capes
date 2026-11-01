@@ -1,0 +1,14 @@
+# Membri della fazione EXILE: un nome Minecraft o un UUID per riga.
+# Le righe che iniziano con # vengono ignorate. Maiuscole/minuscole non contano.
+# Controllate che i nomi siano ESATTAMENTE quelli dell'account Minecraft.
+# Gli UUID sono piu' sicuri: non cambiano se qualcuno cambia nome.
+ale6oo
+criperlo
+nindar
+lucy
+mich
+nyzoo
+oken
+pasku
+vucak
+vanigliamoon
