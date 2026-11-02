@@ -1,0 +1,14 @@
+{
+ "version": "1.1",
+ "notes": "Aggiornamento automatico della mod",
+ "jars": {
+  "1.8.9": {
+   "file": "mod/ExileClient-1.1.jar",
+   "sha256": "c87df611a414496eb28b7ecccc608cc69bf85fccda385aa6bad77b72a321e453"
+  },
+  "1.7.10": {
+   "file": "mod/ExileClient17-1.1.jar",
+   "sha256": "0b5826cc2d86a59cbbf112838ef4296b93c99b9d9263a958d006e8a5932b72fe"
+  }
+ }
+}
