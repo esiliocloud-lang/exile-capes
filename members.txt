@@ -28,3 +28,4 @@ cheat9
 pvphack
 MediasetExtra
 NotLucidify
+xStache
