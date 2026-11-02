@@ -2,6 +2,8 @@
 
 Mantelli e lista membri della fazione EXILE, letti in automatico da EXILE Client (Lunar 1.8.9 e 1.7.10 + Weave).
 
+**Installare EXILE Client:** scarica [EXILE-Client.zip](https://github.com/esiliocloud-lang/exile-capes/releases/latest/download/EXILE-Client.zip), estrai, chiudi Lunar e fai doppio clic su `INSTALLA_EXILE.bat`. Poi si aggiorna da sola.
+
 | Cartella / file | Contenuto |
 |---|---|
 | `capes/` | i mantelli. I file nella radice vanno nella cartella EXILE; ogni sottocartella è una cartella nella GUI. |
