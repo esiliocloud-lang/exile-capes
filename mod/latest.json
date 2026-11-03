@@ -1,14 +1,14 @@
 {
- "version": "1.2.1",
- "notes": "Nuova grafica (pagina Membri con teste e personaggio 3D, cartelle a sinistra con rinomina) e lista membri che arriva anche se un mantello non si scarica.",
+ "version": "1.2.2",
+ "notes": "Se il codice personale viene rifiutato la mod non riprova piu' a raffica; copia di riserva del codice (se si reinstalla Lunar non serve lo sblocco).",
  "jars": {
   "1.8.9": {
-   "file": "mod/ExileClient-1.2.1.jar",
-   "sha256": "1e33d11d0ed98a41a52de578c2d436998bb03f6b62c7491a87ef68d985f98002"
+   "file": "mod/ExileClient-1.2.2.jar",
+   "sha256": "644b2dd8244d42d88cfb8d20c5e2b06c06ae72941663f8547cd6e90bc24c9caa"
   },
   "1.7.10": {
-   "file": "mod/ExileClient17-1.2.1.jar",
-   "sha256": "d4ca6bae4bd73df18b2be435ec2ef125f0311f484be4c96c6975aede7ec357d1"
+   "file": "mod/ExileClient17-1.2.2.jar",
+   "sha256": "debd013067dcabf5e85cf391291d96d5f2d623aba9abb03ff7a264065c37d4b7"
   }
  }
 }
