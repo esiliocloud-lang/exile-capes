@@ -1,14 +1,14 @@
 {
- "version": "1.3.2",
- "notes": "Dopo uno sblocco o un cambio di account la mod risulta subito verificata.",
+ "version": "1.4.0",
+ "notes": "I membri si riconoscono dall'account (UUID): se qualcuno cambia nome tiene mantello e codice.",
  "jars": {
   "1.8.9": {
-   "file": "mod/ExileClient-1.3.2.jar",
-   "sha256": "cbfb299d77f814a3cd10abba1a8a55e85f135d0b7246f52f48a8f42a9c661a74"
+   "file": "mod/ExileClient-1.4.0.jar",
+   "sha256": "a49be7cb24efd3ff0d08d310d80c3a19ebab2762dc56a0efbe94de2e7a26e2cf"
   },
   "1.7.10": {
-   "file": "mod/ExileClient17-1.3.2.jar",
-   "sha256": "8192071b24ccd62ff4f552902e305aa8b06ce8bcc903089061338cecb61a3e47"
+   "file": "mod/ExileClient17-1.4.0.jar",
+   "sha256": "6718f87f3653f0f8278153c7081a55779663e601068f0d763799c70fb33c1129"
   }
  }
 }
