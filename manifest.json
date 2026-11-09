@@ -3533,13 +3533,13 @@
   },
   {
    "path": "identities.properties",
-   "size": 990,
-   "sha1": "1ca5d3a0bc3fccf84f33b1076c15fe824c2e6dc1"
+   "size": 1038,
+   "sha1": "e0d5671d82ec5b34986b09e518a15d500a4d0bb9"
   },
   {
    "path": "members.txt",
-   "size": 542,
-   "sha1": "73bfa6c98e86331ca23d7168c65adf437f2665e2"
+   "size": 557,
+   "sha1": "bd0b6626e6c14d37860f678adef498c86ac255b7"
   }
  ]
 }
