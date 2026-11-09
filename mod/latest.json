@@ -1,14 +1,14 @@
 {
- "version": "1.4.0",
- "notes": "I membri si riconoscono dall'account (UUID): se qualcuno cambia nome tiene mantello e codice.",
+ "version": "1.4.1",
+ "notes": "Membri e mantelli nuovi si vedono subito all'avvio, non piu' dalla partita dopo.",
  "jars": {
   "1.8.9": {
-   "file": "mod/ExileClient-1.4.0.jar",
-   "sha256": "a49be7cb24efd3ff0d08d310d80c3a19ebab2762dc56a0efbe94de2e7a26e2cf"
+   "file": "mod/ExileClient-1.4.1.jar",
+   "sha256": "47f9b3da8a540460a348c97941ab8829ebae9ac322e5b7e02e25a9b7deaea79e"
   },
   "1.7.10": {
-   "file": "mod/ExileClient17-1.4.0.jar",
-   "sha256": "6718f87f3653f0f8278153c7081a55779663e601068f0d763799c70fb33c1129"
+   "file": "mod/ExileClient17-1.4.1.jar",
+   "sha256": "3ee6ba300f0498f6f810adc023eb4b9f64d4600197546c7625c4ff89822f1586"
   }
  }
 }
